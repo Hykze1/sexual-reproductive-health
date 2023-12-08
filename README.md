@@ -2,7 +2,7 @@
 
 ![aa028ac1-660b-a1d8-43dd-ea6bd530c6e6](https://github.com/Hykze1/sexual-reproductive-health./assets/100960483/17df01be-76ef-41a4-ae8f-65501b6511b9)
 
-### Busara has been approached by an international organization called JHG, which is working on sexual reproductive health. They have implemented a program in Kenya where they are giving HIV preventive medicine for free to anyone in need. The pill, which we call DP, must be taken daily to be effective. 
+### An NGO  has been approached by an international organization called JHG, which is working on sexual reproductive health. They have implemented a program in Congo where they are giving HIV preventive medicine for free to anyone in need. The pill, which we call DP, must be taken daily to be effective. 
 
 ### JHG has partnered with clinics across the country, who will be distributing DP pills to patients. The DP comes in packages of 30 pills. Once a month, a patient will need to go back to the clinic and receive a new package. JHG is seeing a much lower uptake and demand for the pills than they had expected. They have concluded that it must be a behavioral problem, since they have made the pills entirely free and easily accessible in hundreds of clinics across the country.
 
