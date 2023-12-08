@@ -21,6 +21,6 @@ d) Suggest one intervention/improvement to the problem JHG is facing, referencin
 e) Can you say that the intervention/improvement caused the increase in DP use by 25% and continuous use by 30%? Explain why or why not. 
 
 f) Can you tell us what would be a better way (if at all) to assess the effectiveness of your intervention? 
-
-# Find the jupyter file above to see indept insigt and Analysis. Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. Thanks 
+are
+# Find the jupyter file above to see indept insigt and Analysis OR Click on view code if you are using mobile Phone. Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. Thanks 
 
