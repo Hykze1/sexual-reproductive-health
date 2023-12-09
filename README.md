@@ -22,5 +22,10 @@ e) Can you say that the intervention/improvement caused the increase in DP use b
 
 f) Can you tell us what would be a better way (if at all) to assess the effectiveness of your intervention? 
 are
-# Find the jupyter file above to see indept insigt and Analysis OR Click on view code if you are using mobile Phone. Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. Thanks 
+# Find the jupyter file above to see indept insigt and Analysis 
+## OR Click on https://github.com/Hykze1/sexual-reproductive-health/blob/main/Busara%20Analyst%20Task%202023%20solved-checkpoint.ipynb
+
+Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. Thanks 
+
+
 
