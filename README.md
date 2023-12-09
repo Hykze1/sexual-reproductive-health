@@ -25,7 +25,11 @@ are
 # Find the jupyter file above to see indept insigt and Analysis 
 ## OR Click on https://github.com/Hykze1/sexual-reproductive-health/blob/main/Busara%20Analyst%20Task%202023%20solved-checkpoint.ipynb
 
-Do not forget to check out my portfolio for other analysis https://hykze1.github.io/. Thanks 
+Do not forget to check out my portfolio for other analysis https://hykze1.github.io/ 
+
+## PS: Always convert your mobile phone browser to desktop for better view when using your mobiles
+
+# Thanks
 
 
 
